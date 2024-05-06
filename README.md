@@ -1,7 +1,8 @@
 # 💫 About Me:
 👋 Hello there! I'm Breno Bernstein, a passionate student and software engineer on a journey to explore and contribute to the ever-evolving world of technology. 
 
-Currently working as Software Engineer at Feed-U Technologies
+My Website:
+[https://brenobernstein.com/]
 
 
 ## 🌐 Socials:

@@ -2,7 +2,7 @@
 👋 Hello there! I'm Breno Bernstein, a passionate student and software engineer on a journey to explore and contribute to the ever-evolving world of technology. 
 
 My Website:
-[https://brenobernstein.com/]
+https://brenobernstein.com/
 
 
 ## 🌐 Socials:
